@@ -27,7 +27,7 @@ const LoginPage = () => {
           transition={{ duration: 0.5 }}
           className="absolute ml-[150px] left-5 top-20"
         >
-          <img src={MahaDBT_home} alt="MahaDBT Home Image" className="w-250 h-auto rounded-lg shadow-lg" />
+          <img src={MahaDBT_home} alt="MahaDBT homepage illustration" className="w-250 h-auto rounded-lg shadow-lg" />
         </motion.div>
       )}
       <div className="absolute mr-[150px] right-5 top-20 flex flex-col items-center gap-4">
